@@ -26,3 +26,5 @@ for i in range(no_of_images):
     
 capture.release()
 cv2.destroyAllWindows()
+
+# Run labelme command for annotation
